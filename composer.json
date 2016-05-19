@@ -1,0 +1,15 @@
+{
+  "name": "grimmlink/selectize",
+  "description": "Shim repository for Selectize",
+  "keywords": [
+    "select",
+    "ui",
+    "form",
+    "input",
+    "control",
+    "autocomplete",
+    "tagging",
+    "tag"
+  ],
+  "license": "Apache-2.0"
+}
